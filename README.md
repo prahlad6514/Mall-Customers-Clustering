@@ -1,4 +1,4 @@
-# Mall Customers Dataset
+# Customer_Segmentation
 
 This repository contains the Mall Customers dataset used for customer segmentation and clustering analysis.
 
