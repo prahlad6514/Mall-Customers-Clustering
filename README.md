@@ -31,7 +31,8 @@ Here, we use the Mall Customers dataset to apply **K-Means clustering** and iden
 
 ## 📷 Results
 Example cluster visualization (Annual Income vs Spending Score):  
-![Cluster Visualization](clusters.png)
+cluster.png
+
 
 ## ⚙️ How to Run
 ```bash
